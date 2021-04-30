@@ -1,0 +1,4 @@
+.carousel-item {
+    height: 65vh; /* viewport height based on viewers screen */
+    min-height: 350px;
+}
